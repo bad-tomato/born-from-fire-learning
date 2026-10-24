@@ -1,0 +1,10 @@
+MODEL: gpt_image_2
+RESOLUTION: 2k
+ASPECT RATIO: 16:9
+QUALITY: high
+REFERENCES: image_1 = Old No. 7 bottle photo (clean reference)
+============================================================
+PROMPT (paste everything below into Higgsfield):
+============================================================
+
+Cinematic photoreal hero product photograph of the iconic standard-size square Jack Daniel's Old No. 7 Tennessee whiskey bottle standing in a single warm pool of firelight against a deep near-black background. Faithfully reproduce the bottle and its real front label exactly as shown in the reference image: the square bottle with squared shoulders and a short black-capped neck, and the classic black front label with its cream and white lettering and fine filigree border, kept accurate and legible and matching the reference label artwork and typography as closely as possible. The bottle is filled with rich amber whiskey that glows where the firelight passes through it, warm specular highlights running down one edge of the glass, the black label catching a soft warm sheen of firelight, a soft amber reflection on the dark surface beneath it, faint drifting smoke and a few floating embers in the dark air. The bottle is turned just slightly toward camera so the front label reads clearly and flat, with generous dark negative space across the upper area of the frame. Dramatic, premium, moody, reverent. Compose this fresh as a new photograph, using the reference for the exact bottle shape and the exact label. Shot on Kodak Vision3 500T tungsten film stock with warm tungsten color science, fine organic 35mm film grain, gentle highlight roll-off, subtle natural halation and soft bloom only on the brightest firelight highlights, shallow depth of field, deep protected near-black crushed shadows, firelight as the only light source, a deep warm amber-and-black palette, authentic photographic micro-contrast, natural contrast, no HDR, no clarity-slider crunch, anamorphic cinematic feel. Photoreal, cinematic, not a 3D render, not CGI, not an illustration, not painterly. 16:9 horizontal.

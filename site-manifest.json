@@ -1,0 +1,344 @@
+{
+  "site": "https://bad-tomato.github.io/born-from-fire-learning/",
+  "repository": "https://github.com/bad-tomato/born-from-fire-learning",
+  "original_tutorial": "https://crossroadmedia.ca/jack-daniels-born-from-fire-ai-workflow/",
+  "original_video": "https://www.youtube.com/watch?v=aeSE51TeTK4",
+  "has_local_video": true,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "aux-1-zh.md",
+      "bytes": 8253,
+      "sha256": "186c5c6bc44376894ae4e8106d6cd05a95110078cfa661b2d56a4140b728e7eb"
+    },
+    {
+      "path": "aux-2-zh.md",
+      "bytes": 4517,
+      "sha256": "451d94fbba6ac3d361278de7e91e761ee7437353efa4b5f157aad0f1cdef3786"
+    },
+    {
+      "path": "aux-3-zh.md",
+      "bytes": 16842,
+      "sha256": "a11134494313d2c76afd8750c3c29c8d6deb59e7a98a8147848b8d90621f4326"
+    },
+    {
+      "path": "aux-4-zh.md",
+      "bytes": 3142,
+      "sha256": "6c1c73546e68aa1395148738787ed5edbaaf021df2a35109d7c72ef12ae45928"
+    },
+    {
+      "path": "born-from-fire.mp4",
+      "bytes": 8868431,
+      "sha256": "34f9e129db3b2226e11ce71e1fc957af9d55887611ae7322c53d7ca41c8f1adb"
+    },
+    {
+      "path": "CREDITS.md",
+      "bytes": 570,
+      "sha256": "39248667e164480e7d1b96e8a69a3eef3b710b1620b38a410559c13761eda838"
+    },
+    {
+      "path": "file-map.md",
+      "bytes": 12695,
+      "sha256": "c430e2261814173c61977fa18cefd3ea8be2d7a71f51fc2fa3de9919a1c2c2f8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 219855,
+      "sha256": "9f748e894e66865dbcd55ef63e2794120dbfbf96e38c2cc939aa2471396ef3bf"
+    },
+    {
+      "path": "original-files-manifest.json",
+      "bytes": 10484,
+      "sha256": "bc62447d96df68df6f14cd634000ad14b29e3711b07380a65840f0f6ecd18ce2"
+    },
+    {
+      "path": "prompt-I01-zh.md",
+      "bytes": 9953,
+      "sha256": "cecf6c96e12b87c2c82f2c51dbe7a3aaf15d84e2e13b2b8d57a2ea481ba08427"
+    },
+    {
+      "path": "prompt-I02-zh.md",
+      "bytes": 4740,
+      "sha256": "949746374f2847e7c3d150b3ea55291b6ba4dc2ed8fb2ebcfbc8fcc2feeccaab"
+    },
+    {
+      "path": "prompt-I03-zh.md",
+      "bytes": 4782,
+      "sha256": "f91ec8ed820271fd2f311b2008750e538d08e65c87166e83c0c5bfa0fa50e228"
+    },
+    {
+      "path": "prompt-I04-zh.md",
+      "bytes": 5116,
+      "sha256": "5d7bbbdcf0676b1ffa6276be3c46a357fb3013cd72bd8c603e2517d9ec6b1549"
+    },
+    {
+      "path": "prompt-I05-zh.md",
+      "bytes": 5597,
+      "sha256": "15a6c5602d52633e54263059bc9f0b869254538f32e0e6b693ef77ae1d3f706a"
+    },
+    {
+      "path": "prompt-I06-zh.md",
+      "bytes": 6741,
+      "sha256": "2f5e79fe839963d5cef877619513ea419f12c5c2b185177692e33c27f88a897c"
+    },
+    {
+      "path": "prompt-I07-zh.md",
+      "bytes": 4817,
+      "sha256": "e3ff62ae0bb2da48fb3f087b0e15a14595d6846b1e73df6980a999b26bab76f8"
+    },
+    {
+      "path": "prompt-I08-zh.md",
+      "bytes": 3966,
+      "sha256": "b814f298afb73eeb9064e26bf7c674370ba7959a3e45666fecd5c6a7fb4fff36"
+    },
+    {
+      "path": "prompt-I09-zh.md",
+      "bytes": 4419,
+      "sha256": "2081b9cf66ddf857672b8da6362a2ebf448deafcab8770fdaf473987c85d2ebf"
+    },
+    {
+      "path": "prompt-V01-zh.md",
+      "bytes": 7200,
+      "sha256": "2ae7fa22ee4c399f266feac8dfcaec8fb4fa8703ee1ad706bd614fb3ff1fab09"
+    },
+    {
+      "path": "prompt-V02-zh.md",
+      "bytes": 10037,
+      "sha256": "5d0886a0ec95e162eb36faa7d23e328193361ad8242beef160d27c672fff1c15"
+    },
+    {
+      "path": "prompt-V03-zh.md",
+      "bytes": 11516,
+      "sha256": "fe5000d0b5a7cc47d42b3b25b848c9d77f8f7735194b4de1f4e64164dea98644"
+    },
+    {
+      "path": "prompt-V04-zh.md",
+      "bytes": 8482,
+      "sha256": "b49466d4b42fbe3b54db881297a64c3f89d654b38707eb252986c4aaaacac1bb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1574,
+      "sha256": "1c1606d66222f8c9f95d71fc012032ba5c272181c0fe468f2e9cfc9e9f5e6ce0"
+    },
+    {
+      "path": "source__Corona_Claude_Skills__motion-design.skill.md",
+      "bytes": 8937,
+      "sha256": "a77d608253d8256a5a25f188532a757742124fabbd7d1a4cc4016173f866769a"
+    },
+    {
+      "path": "source__Corona_Claude_Skills__seedance-director.skill",
+      "bytes": 8629,
+      "sha256": "1c800177bc0c544dc9958905c2a5e5f623806e7ab3fb43504eda121db6b624cd"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__01-References__master-distiller-locked-midjourney.webp",
+      "bytes": 152198,
+      "sha256": "2bd0e8e1561882a9940c3345b0cbedf5cdbb4dda8864697ebc9382cfd3da1156"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__01-References__old-no7-bottle-reference.webp",
+      "bytes": 130002,
+      "sha256": "6db3ddd06a58c113d03352c3ec83852016b2bad4100052c654611eebecfde7ff"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__02-Keyframes__distiller-gpt-image-2-alternate.webp",
+      "bytes": 217688,
+      "sha256": "82c9aba6e49b1d991cdc28bbbdfa7296b81e4474c30256cf8ad65934844d8886"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__02-Keyframes__keyframe-bottle-hero-plate.webp",
+      "bytes": 122312,
+      "sha256": "5dab398e81249bc2b584e047a029a3f32712ff10d080a3d9077ff6b20cbb0d1c"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__02-Keyframes__keyframe-char-barrel.webp",
+      "bytes": 182268,
+      "sha256": "5aaabc7b89b0d6d4c6ea8d9b6a39cd59a651ad3eff408d5fa298ca46e0990ca7"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__02-Keyframes__keyframe-charcoal-drip.webp",
+      "bytes": 115964,
+      "sha256": "09208f4ffbb4d771c3cb8c7fb04db6142ccbd04f189f0a1fb6179fe007f466fa"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__02-Keyframes__keyframe-icedrop.webp",
+      "bytes": 396380,
+      "sha256": "641c6728365ad63064ae797ac01b04caa63d966bb4da352910c6757f3a91ccb4"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__02-Keyframes__keyframe-matchcut-glass-opening.webp",
+      "bytes": 315684,
+      "sha256": "ae63ac0b141afe6a4803eebd541dd84e2f4e81a4b20b91a5993bb5a348929c0c"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__03-Storyboard__storyboard-onesheet.webp",
+      "bytes": 274546,
+      "sha256": "6495a2e0b280bf393f3d9f62b30f8650788692ef41d35e40a2dfb0ba4e0dea3a"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__04-Grained-Plates__plate-1-distiller-grained.webp",
+      "bytes": 136246,
+      "sha256": "b1155c23dfdc025770b67166947944e42bd33cdcc59661e2e5c19aa03af7d674"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__04-Grained-Plates__plate-2-char-grained.webp",
+      "bytes": 259426,
+      "sha256": "78798e07e9ed57e4fb078ca350a5f34baec2534d9c3234f10bf8cc4ffe063d5f"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__04-Grained-Plates__plate-3-drip-grained.webp",
+      "bytes": 170210,
+      "sha256": "3d29c0bcc40d383c6cf55a948b0d1fd35a25126036815ab5e88ba3c7e347e4be"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__04-Grained-Plates__plate-4-icedrop-grained.webp",
+      "bytes": 367606,
+      "sha256": "0a3d88c9aba3e4d2f241eb56e921e03e630352a71899e3e25b683759fc9da938"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__04-Grained-Plates__plate-5-bottle-grained.webp",
+      "bytes": 105554,
+      "sha256": "95ccf453a30aeb1d82c570bb2c96eda2da01c5716dc27049b963b451c00b3910"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__05-End-Cards__JD_EndCard_BornInFire_Cochin_transparent.webp",
+      "bytes": 106470,
+      "sha256": "67d71c89287923e36f9c39b5a892a724004f5823f847f45620917a1410ea997d"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__05-End-Cards__JD_EndCard_BornInFire_Didot_transparent.webp",
+      "bytes": 82130,
+      "sha256": "3be9dc72e53481fea82bfbcd7e9394fc94c95963a49ee6a48bd51cae0fd42b47"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__05-End-Cards__JD_EndCard_BornInFire_HoeflerText_transparent.webp",
+      "bytes": 107074,
+      "sha256": "23a66c2c17a83b17e80c9632ca4943066daf095051188c300e74dd794eba14f8"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__05-End-Cards__JD_EndCard_PREVIEW.webp",
+      "bytes": 91600,
+      "sha256": "deb603e8d28672510d946b7cc76142dfd47a607bfe70ec588181dca6b221599e"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__05-End-Cards__JD_EndCard_split_opt1_transparent.webp",
+      "bytes": 22368,
+      "sha256": "d4cef94913ba9df026af7af5188cca07b9c1472ec9d051afee1a5162b8966975"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__05-End-Cards__JD_EndCard_split_opt2_transparent.webp",
+      "bytes": 22680,
+      "sha256": "4f553567fdced930fcf386d78120551c1696853e75e55b3e1bb546b59f5b05bc"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__05-End-Cards__JD_EndCard_split_opt3_transparent.webp",
+      "bytes": 23396,
+      "sha256": "fb818afc5e57d762c4f2ab543e38f92bdb7cc1ea4698ccb0e5ea8daf2b800035"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-01-master-distiller-portrait.txt",
+      "bytes": 4405,
+      "sha256": "b312879443da841ed7296db7c3d600afa9364bf5ff142829bfec9a4528bd127b"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-02-char-barrel-interior-FINAL.txt",
+      "bytes": 1607,
+      "sha256": "dceaeff94edad73ac71be8ea83f4592ce5665f1aa475e00a11d346ce9cafb5c2"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-03-charcoal-drip-FINAL.txt",
+      "bytes": 1692,
+      "sha256": "abc15abe2f313716b94ca1676af69b01014f7bb042178ec5deadeff66da952cd"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-04-pour-glass-SCRAPPED.txt",
+      "bytes": 1979,
+      "sha256": "7dffe62984836955684a722894c210de88c19e64054396442f5ca07e3de5730d"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-05-bottle-hero-plate-FINAL.txt",
+      "bytes": 2101,
+      "sha256": "807c688daac01a0e340777b58a7c9d19c2f83a79ee0aff0ba21108b6e6d93336"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-06-storyboard-onesheet.txt",
+      "bytes": 2740,
+      "sha256": "11ba748b318a310e10b7c9ce73df92c8a316e1e7e94d7cbc64757f7cca482f21"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-07-pour-keyframe-retry-SCRAPPED.txt",
+      "bytes": 1812,
+      "sha256": "b3a4d245173dcf7356edf0ec0e568a51a059d72cca323244b8acdb599e28f032"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-08-icedrop-keyframe-FINAL.txt",
+      "bytes": 1292,
+      "sha256": "ca58265b0da7a70c8444672b1599bcc3af41874c326bc76850f9f6714f5ba267"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__image-09-matchcut-glass-opening-FINAL.txt",
+      "bytes": 1488,
+      "sha256": "b61eb6fb0bf27537de2b757252f7cb9dead37bc0f09944cf5928eef1d71fd6c7"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__video-01-bottle-crane-test.txt",
+      "bytes": 3740,
+      "sha256": "4fed2b849a2266d9d912f55a188bd4d8c76f7467cfd333439aa5544e5d6476f9"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__video-02-MASTER-15s-roll1-FAILED.txt",
+      "bytes": 5322,
+      "sha256": "2a01edfb09503c2a6c3863a61951e7e53f03c1a602e32b3f0d1b23b22ecc5c41"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__video-03-MASTER-15s-roll2-FINAL-shots-1-to-3.txt",
+      "bytes": 6170,
+      "sha256": "f1d35f7c057fbd5eb6a08ec2a5ee70d025906abf37de8f56f0953d8eeaa44562"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__06-Prompts__video-04-ICEDROP-10s-FINAL-shots-4-and-5.txt",
+      "bytes": 4224,
+      "sha256": "960af6b05a1c5631f407d3f3e6e32788b773782f689b2367e08ec40cbb045803"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__07-Grain-Script__grain.py",
+      "bytes": 1472,
+      "sha256": "f73ae6ac38d64dcf0a5eaad90ee8eeb992e5e7ba30def6854c580954672d129d"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__08-Claude-Skills__motion-design.skill.md",
+      "bytes": 8937,
+      "sha256": "a77d608253d8256a5a25f188532a757742124fabbd7d1a4cc4016173f866769a"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__08-Claude-Skills__seedance-director.skill",
+      "bytes": 8629,
+      "sha256": "1c800177bc0c544dc9958905c2a5e5f623806e7ab3fb43504eda121db6b624cd"
+    },
+    {
+      "path": "source__JackDaniels_BornFromFire_Workflow_Pack__README.txt",
+      "bytes": 2884,
+      "sha256": "ba21a5ca94ed2c5a3a56fa89409583d65cddf2c0c72c745cfc3b3f5c1966af23"
+    },
+    {
+      "path": "start-here.md",
+      "bytes": 1137,
+      "sha256": "b004c66a873478c97e4486660e9a5c0955bf4941fa360921300c80f0bf2f7aa3"
+    },
+    {
+      "path": "study-handbook.md",
+      "bytes": 19768,
+      "sha256": "55eec60fc0660017553f6b2f57421a57649cc2d31379eb2114b2c60f90935c1e"
+    },
+    {
+      "path": "video-source.json",
+      "bytes": 656,
+      "sha256": "6f63f3d0c37dfedf80d90996030ee05bdd342d481f391a02dc7327f00f129cb5"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+MODEL: gpt_image_2
+RESOLUTION: 2k
+ASPECT RATIO: 16:9
+QUALITY: high
+REFERENCES: image_1 = reference image
+============================================================
+PROMPT (paste everything below into Higgsfield):
+============================================================
+
+Cinematic photoreal macro photograph: a heavy crystal rocks glass holding calm, perfectly still amber Tennessee whiskey, centered in the frame, the glossy amber surface catching a single soft warm vertical firelight highlight, a soft out-of-focus warm firelight bokeh glowing in the upper-left background exactly like the reference image, the rest of the frame falling to deep near-black with a few faint drifting embers. No ice in the glass yet, no splash, the liquid dead still. Match the reference image tone-for-tone: the same warm amber color, the same soft flame bokeh shape and placement, the same darkness, the same low contrast and the same heavy film grain, so the two images cut together seamlessly. No hands, no people. Shot on Kodak Vision3 500T tungsten film stock with heavy visible organic 35mm film grain, slightly soft photographic focus, gentle highlight roll-off, halation only on the brightest firelight highlight, no plastic CGI sheen, no waxy smoothing. It must read as a real grainy film photograph, not a 3D render, not CGI, not an AI image. Deep warm amber-and-black palette, anamorphic cinematic feel. ABSOLUTELY NO text, letters, numbers, or logos anywhere in frame. 16:9 horizontal.

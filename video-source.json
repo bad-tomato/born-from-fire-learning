@@ -1,0 +1,16 @@
+{
+  "source_page": "https://crossroadmedia.ca/jack-daniels-born-from-fire-ai-workflow/",
+  "source_video": "https://www.youtube.com/watch?v=aeSE51TeTK4",
+  "author": "Calixte LeBlanc / Crossroad Media",
+  "downloaded_on": "2026-10-24",
+  "duration_seconds": 19.527982,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "bytes": 8868431,
+  "sha256": "34f9e129db3b2226e11ce71e1fc957af9d55887611ae7322c53d7ca41c8f1adb",
+  "decode_check": "ffmpeg full decode passed",
+  "note": "作者公开视频的观看版，非制作母版；原始生成片段、失败片段与剪辑工程仍未提供。"
+}

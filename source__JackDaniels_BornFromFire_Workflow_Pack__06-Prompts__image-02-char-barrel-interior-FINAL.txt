@@ -1,0 +1,9 @@
+MODEL: gpt_image_2
+RESOLUTION: 2k
+ASPECT RATIO: 16:9
+QUALITY: high
+============================================================
+PROMPT (paste everything below into Higgsfield):
+============================================================
+
+Extreme cinematic macro photograph of the charred interior of a new American white oak whiskey barrel as live orange flame rolls and races across the wood. The deeply alligatored blackened char of the toasted oak staves curves through the frame, glowing ember-red along the advancing burning edge, with a white-hot leading flame front and a spray of bright sparks flicking up toward the lens. Visible wood grain blistering into crocodile-skin char, heat shimmer rising off the surface. Tight razor depth of field on the burning char line, the rest of the barrel curving away into deep shadow. Shot on Kodak Vision3 500T tungsten film stock with warm tungsten color science, fine organic 35mm film grain, gentle highlight roll-off, subtle natural halation and soft bloom only on the brightest firelight highlights, shallow depth of field, deep protected near-black crushed shadows, firelight as the only light source, a deep warm amber-and-black palette, faint drifting wood-smoke haze and a few soft floating ember sparks, authentic photographic micro-contrast, natural contrast, no HDR, no clarity-slider crunch, anamorphic cinematic feel. ABSOLUTELY NO text, letters, numbers, words, labels, signage, logos, or brand marks anywhere in the frame. It must read as a real cinema photograph, not a 3D render, not CGI, not an illustration, not painterly. 16:9 horizontal.

@@ -1,0 +1,10 @@
+MODEL: gpt_image_2
+RESOLUTION: 2k
+ASPECT RATIO: 16:9
+QUALITY: high
+REFERENCES: image_1 = master distiller (Midjourney source, locked identity)
+============================================================
+PROMPT (paste everything below into Higgsfield):
+============================================================
+
+Cinematic photoreal close shot of a heavy crystal rocks glass holding a single large clear square ice cube as a stream of rich amber Tennessee whiskey pours in and splashes around the ice, firelight refracting warm gold through the liquid and the cut glass, a few bright droplets flicking up and catching the light. The weathered, sun-creased hand and rolled-up charcoal cotton shirt sleeve and frayed canvas apron of the master distiller from the reference image enters from the side, fingers just about to close around the glass, his shadowed silver beard and jaw barely catching the firelight at the very top edge of the frame. Warm specular rim light along the glass edge, the background crushed to deep black, a slight speed-ramped feel to the splash. Compose this fresh as a new photograph using the reference only for the man's exact face, weathering, beard, skin, shirt and apron. Shot on Kodak Vision3 500T tungsten film stock with warm tungsten color science, fine organic 35mm film grain, gentle highlight roll-off, subtle natural halation and soft bloom only on the brightest firelight highlights, shallow depth of field, deep protected near-black crushed shadows, firelight as the only light source, a deep warm amber-and-black palette, faint drifting wood-smoke haze and a few soft floating ember sparks, authentic photographic micro-contrast, natural contrast, no HDR, no clarity-slider crunch, anamorphic cinematic feel. ABSOLUTELY NO text, letters, numbers, words, labels, signage, logos, or brand marks anywhere in the frame. It must read as a real cinema photograph, not a 3D render, not CGI, not an illustration, not painterly. 16:9 horizontal.

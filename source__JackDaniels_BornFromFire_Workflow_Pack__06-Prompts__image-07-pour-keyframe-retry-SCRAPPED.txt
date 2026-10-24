@@ -1,0 +1,10 @@
+MODEL: gpt_image_2
+RESOLUTION: 2k
+ASPECT RATIO: 16:9
+QUALITY: high
+REFERENCES: image_1 = master distiller (Midjourney source, locked identity)
+============================================================
+PROMPT (paste everything below into Higgsfield):
+============================================================
+
+Cinematic photoreal macro photograph, the moment a stream of amber Tennessee whiskey pours over a single large clear square ice cube in a heavy crystal rocks glass, the liquid splashing and swirling, warm firelight refracting gold through the whiskey and the cut glass. A real, weathered, working man's hand and forearm (matching the reference man's wardrobe: a rolled-up dark charcoal cotton shirt sleeve) enters from the side and holds the base of the glass. The hand is rough and authentic: prominent knuckle wrinkles and deep creases, raised veins across the back of the hand, dry calloused skin, coarse hairs, a couple of small scars, slightly dirty short nails, true pore-level skin texture, natural asymmetry and human imperfection. NOT smooth, NOT glossy, NOT over-rendered, NOT waxy. Lit only by warm firelight from the side, deep near-black background, a few drifting embers. CRITICAL realism: shot on Kodak Vision3 500T tungsten film stock with HEAVY visible organic 35mm film grain across the entire frame, slightly soft photographic focus, gentle highlight roll-off, halation only on the brightest firelight highlights, authentic film micro-contrast, natural contrast, no HDR, no clarity-slider crunch, no plastic CGI sheen, no airbrushed smoothing. It must read as a real grainy film photograph, not a 3D render, not CGI, not an AI image. Deep warm amber-and-black palette, anamorphic cinematic feel. ABSOLUTELY NO text, letters, numbers, or logos anywhere in frame. 16:9 horizontal.

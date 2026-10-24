@@ -1,0 +1,9 @@
+MODEL: gpt_image_2
+RESOLUTION: 2k
+ASPECT RATIO: 16:9
+QUALITY: high
+============================================================
+PROMPT (paste everything below into Higgsfield):
+============================================================
+
+Cinematic photoreal macro photograph: a single large clear square ice cube plunging down into a heavy crystal rocks glass filled with amber Tennessee whiskey, the cube breaking the surface as the first burst of an amber splash crown erupts upward, golden droplets flung into the air, warm firelight refracting through the whiskey and the cut glass, deep near-black background with a few drifting embers. No hands, no people, just the glass, the ice and the whiskey. Shot on Kodak Vision3 500T tungsten film stock with HEAVY visible organic 35mm film grain across the entire frame, slightly soft photographic focus, gentle highlight roll-off, halation only on the brightest firelight highlights, authentic film micro-contrast, natural contrast, no HDR, no clarity-slider crunch, no plastic CGI sheen, no waxy smoothing. It must read as a real grainy film photograph, not a 3D render, not CGI, not an AI image. Deep warm amber-and-black palette, anamorphic cinematic feel. ABSOLUTELY NO text, letters, numbers, or logos anywhere in frame. 16:9 horizontal.

@@ -1,0 +1,269 @@
+{
+  "recorded_on": "2026-10-24",
+  "scope": "User-downloaded original files only; SHA-256 recorded before writing translations.",
+  "files": [
+    {
+      "path": "Corona_Claude_Skills/motion-design.skill.md",
+      "bytes": 8743,
+      "sha256": "f010e3310b0f3c7cc72fda570961a2face71957a3462e694a0383fa410633795"
+    },
+    {
+      "path": "Corona_Claude_Skills/seedance-director.skill",
+      "bytes": 8629,
+      "sha256": "1c800177bc0c544dc9958905c2a5e5f623806e7ab3fb43504eda121db6b624cd"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/01-References/master-distiller-locked-midjourney.png",
+      "bytes": 6053936,
+      "sha256": "0138535f91b54ac7129b2af6795ec2047638c98fa765f15e4815c6ed948fb9c3",
+      "width": 2944,
+      "height": 1648,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/01-References/old-no7-bottle-reference.png",
+      "bytes": 291240,
+      "sha256": "2aff958391d460087cbab49d3a7ba9fe442040d1c8f2f9a8be3ee6cfa47f84ed",
+      "width": 1269,
+      "height": 1719,
+      "mode": "RGBA"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/02-Keyframes/distiller-gpt-image-2-alternate.png",
+      "bytes": 7174147,
+      "sha256": "347c1671530b3c3f58a382f8b1d4ab7e755796e397197489343ae1cf82452f26",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/02-Keyframes/keyframe-bottle-hero-plate.png",
+      "bytes": 5590335,
+      "sha256": "dfd1f63e7f21389daa5602b9ffefe1196b4a0fd992fa1b083c517f8b6880ad64",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/02-Keyframes/keyframe-char-barrel.png",
+      "bytes": 7880935,
+      "sha256": "8c7e72e0507ac6b3230e332df46e38c3f86dc43dc61ef4f02d9f59fba768abc6",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/02-Keyframes/keyframe-charcoal-drip.png",
+      "bytes": 7548705,
+      "sha256": "1abd1bc8f9995f8c0e6637ff0fdc229fe2a93c86316c094c047b73738a84d70a",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/02-Keyframes/keyframe-icedrop.png",
+      "bytes": 8381256,
+      "sha256": "369a92bb1c684a89608645bcf1898732b2497b418813df9d3251d9a8bbc36706",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/02-Keyframes/keyframe-matchcut-glass-opening.png",
+      "bytes": 7982004,
+      "sha256": "81890e1f948c88fb08bb16acde376aba2784c9c1761f5bebdc9097d6742fd308",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/03-Storyboard/storyboard-onesheet.png",
+      "bytes": 10149618,
+      "sha256": "3103635b90b1d86493c4bf10c776a4ce298408c45dc7239494aaf0dd96843626",
+      "width": 3504,
+      "height": 2336,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/04-Grained-Plates/plate-1-distiller-grained.png",
+      "bytes": 7122321,
+      "sha256": "ddedc24429f5a28bdc07c0e6c5525e63f245a3b2567f39c96a70eda87f49c29b",
+      "width": 2944,
+      "height": 1648,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/04-Grained-Plates/plate-2-char-grained.png",
+      "bytes": 7019399,
+      "sha256": "8a8471cf7d54f00f04d5a849548d79f7a31b14f157b1ddbc4f8da23cdbe55929",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/04-Grained-Plates/plate-3-drip-grained.png",
+      "bytes": 6526341,
+      "sha256": "e503799f8cfe3a15d2e3b1ef038af7ac3306682642af445ea4190cd446f080cb",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/04-Grained-Plates/plate-4-icedrop-grained.png",
+      "bytes": 6985644,
+      "sha256": "bac5db6f3010eac2cb420499d86b43fc0d74e0f1edb6ca46855292374e85c7c2",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/04-Grained-Plates/plate-5-bottle-grained.png",
+      "bytes": 3126812,
+      "sha256": "bae4d733bd520c882c9d20797b2b2951a49bbb6040f49291832569f9a796155f",
+      "width": 2688,
+      "height": 1520,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/05-End-Cards/JD_EndCard_BornInFire_Cochin_transparent.png",
+      "bytes": 152523,
+      "sha256": "5df736ab47406e53610db0eac75fb346fc8b23e8e78ca690700428e098827b8a",
+      "width": 2046,
+      "height": 501,
+      "mode": "RGBA"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/05-End-Cards/JD_EndCard_BornInFire_Didot_transparent.png",
+      "bytes": 103882,
+      "sha256": "bf324771735ab32d34b77f419c5280cb1dcba230aaec0014aa1554365e90d696",
+      "width": 2052,
+      "height": 548,
+      "mode": "RGBA"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/05-End-Cards/JD_EndCard_BornInFire_HoeflerText_transparent.png",
+      "bytes": 155142,
+      "sha256": "cfea9c9512a969f28ab5a0a9c2b98a2b1a881ad4fbad2a7fcc5ff04bd30c37fe",
+      "width": 2089,
+      "height": 486,
+      "mode": "RGBA"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/05-End-Cards/JD_EndCard_PREVIEW.png",
+      "bytes": 344023,
+      "sha256": "6d99032b8568ee46fffbd655a959f400eb7233a1de704c2a9b2f2bd7019aea89",
+      "width": 2177,
+      "height": 1861,
+      "mode": "RGB"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/05-End-Cards/JD_EndCard_split_opt1_transparent.png",
+      "bytes": 29490,
+      "sha256": "4d46f871db6b82daae9c04808f52da495abe6acf20874f49f18b112bdcf17b1a",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGBA"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/05-End-Cards/JD_EndCard_split_opt2_transparent.png",
+      "bytes": 29475,
+      "sha256": "f6971df1cd23fd971ce5c7840c7e39134bec21531b2737c403526ce4242e2b1d",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGBA"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/05-End-Cards/JD_EndCard_split_opt3_transparent.png",
+      "bytes": 29468,
+      "sha256": "a211c50575660166b62b2b3264fc0aae298baa597960932989d71543939cc6d8",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGBA"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-01-master-distiller-portrait.txt",
+      "bytes": 4405,
+      "sha256": "b312879443da841ed7296db7c3d600afa9364bf5ff142829bfec9a4528bd127b"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-02-char-barrel-interior-FINAL.txt",
+      "bytes": 1607,
+      "sha256": "dceaeff94edad73ac71be8ea83f4592ce5665f1aa475e00a11d346ce9cafb5c2"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-03-charcoal-drip-FINAL.txt",
+      "bytes": 1692,
+      "sha256": "abc15abe2f313716b94ca1676af69b01014f7bb042178ec5deadeff66da952cd"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-04-pour-glass-SCRAPPED.txt",
+      "bytes": 1979,
+      "sha256": "7dffe62984836955684a722894c210de88c19e64054396442f5ca07e3de5730d"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-05-bottle-hero-plate-FINAL.txt",
+      "bytes": 2101,
+      "sha256": "807c688daac01a0e340777b58a7c9d19c2f83a79ee0aff0ba21108b6e6d93336"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-06-storyboard-onesheet.txt",
+      "bytes": 2740,
+      "sha256": "11ba748b318a310e10b7c9ce73df92c8a316e1e7e94d7cbc64757f7cca482f21"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-07-pour-keyframe-retry-SCRAPPED.txt",
+      "bytes": 1812,
+      "sha256": "b3a4d245173dcf7356edf0ec0e568a51a059d72cca323244b8acdb599e28f032"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-08-icedrop-keyframe-FINAL.txt",
+      "bytes": 1292,
+      "sha256": "ca58265b0da7a70c8444672b1599bcc3af41874c326bc76850f9f6714f5ba267"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/image-09-matchcut-glass-opening-FINAL.txt",
+      "bytes": 1488,
+      "sha256": "b61eb6fb0bf27537de2b757252f7cb9dead37bc0f09944cf5928eef1d71fd6c7"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/video-01-bottle-crane-test.txt",
+      "bytes": 3740,
+      "sha256": "4fed2b849a2266d9d912f55a188bd4d8c76f7467cfd333439aa5544e5d6476f9"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/video-02-MASTER-15s-roll1-FAILED.txt",
+      "bytes": 5322,
+      "sha256": "2a01edfb09503c2a6c3863a61951e7e53f03c1a602e32b3f0d1b23b22ecc5c41"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/video-03-MASTER-15s-roll2-FINAL-shots-1-to-3.txt",
+      "bytes": 6170,
+      "sha256": "f1d35f7c057fbd5eb6a08ec2a5ee70d025906abf37de8f56f0953d8eeaa44562"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/06-Prompts/video-04-ICEDROP-10s-FINAL-shots-4-and-5.txt",
+      "bytes": 4224,
+      "sha256": "960af6b05a1c5631f407d3f3e6e32788b773782f689b2367e08ec40cbb045803"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/07-Grain-Script/grain.py",
+      "bytes": 1472,
+      "sha256": "f73ae6ac38d64dcf0a5eaad90ee8eeb992e5e7ba30def6854c580954672d129d"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/08-Claude-Skills/motion-design.skill.md",
+      "bytes": 8743,
+      "sha256": "f010e3310b0f3c7cc72fda570961a2face71957a3462e694a0383fa410633795"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/08-Claude-Skills/seedance-director.skill",
+      "bytes": 8629,
+      "sha256": "1c800177bc0c544dc9958905c2a5e5f623806e7ab3fb43504eda121db6b624cd"
+    },
+    {
+      "path": "JackDaniels_BornFromFire_Workflow_Pack/README.txt",
+      "bytes": 2884,
+      "sha256": "ba21a5ca94ed2c5a3a56fa89409583d65cddf2c0c72c745cfc3b3f5c1966af23"
+    }
+  ]
+}

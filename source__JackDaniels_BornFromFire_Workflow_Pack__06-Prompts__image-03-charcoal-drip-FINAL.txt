@@ -1,0 +1,9 @@
+MODEL: gpt_image_2
+RESOLUTION: 2k
+ASPECT RATIO: 16:9
+QUALITY: high
+============================================================
+PROMPT (paste everything below into Higgsfield):
+============================================================
+
+Extreme cinematic macro photograph of a single glistening amber droplet of whiskey suspended in mid-fall just above a bed of rough black sugar-maple charcoal chunks. The drop is caught in a thin warm rim of firelight with one tiny bright specular highlight on its curved surface and a faint vertical motion-stretch beneath it, and a single soft ring is just beginning to form on the charcoal directly below where it will land. The angular charcoal pieces glint faintly at their edges and are mostly swallowed by near-black shadow. A mood of stillness, weight, and patience, the quiet after the fire. Razor-thin shallow focus locked on the droplet, everything else falling soft. Shot on Kodak Vision3 500T tungsten film stock with warm tungsten color science, fine organic 35mm film grain, gentle highlight roll-off, subtle natural halation and soft bloom only on the brightest firelight highlights, shallow depth of field, deep protected near-black crushed shadows, firelight as the only light source, a deep warm amber-and-black palette, faint drifting wood-smoke haze and a few soft floating ember sparks, authentic photographic micro-contrast, natural contrast, no HDR, no clarity-slider crunch, anamorphic cinematic feel. ABSOLUTELY NO text, letters, numbers, words, labels, signage, logos, or brand marks anywhere in the frame. It must read as a real cinema photograph, not a 3D render, not CGI, not an illustration, not painterly. 16:9 horizontal.
